@@ -1,0 +1,19 @@
+[Info]
+name="Po"
+displayname="Po"
+versiondate=07/03/2026
+mugenversion=
+author="Mugens World"
+pal.defaults=1,
+[Files]
+sprite=po.sff
+sound=po.snd
+anim=po.air
+cmd=po.cmd
+cns=po.cns
+st=po.cns
+stcommon=common1.cns
+pal1=player.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
