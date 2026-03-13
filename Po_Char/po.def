@@ -6,14 +6,14 @@ mugenversion=
 author="Mugens World"
 pal.defaults=1,
 [Files]
-sprite=po.sff
-sound=po.snd
-anim=po.air
-cmd=po.cmd
-cns=po.cns
-st=po.cns
-stcommon=common1.cns
-pal1=player.act
+sprite=assets/po.sff
+sound=assets/po.snd
+anim=assets/po.air
+cmd=logic/po.cmd
+cns=logic/po.cns
+st=logic/po.cns
+stcommon=logic/common1.cns
+pal1=palette/po.act
 [Arcade]
 intro.storyboard=
 ending.storyboard=
