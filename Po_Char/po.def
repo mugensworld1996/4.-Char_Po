@@ -12,7 +12,7 @@ anim=assets/po.air
 cmd=logic/po.cmd
 cns=logic/po.cns
 st=logic/po.cns
-stcommon=logic/common1.cns
+stcommon=common1.cns
 pal1=palette/po.act
 [Arcade]
 intro.storyboard=
